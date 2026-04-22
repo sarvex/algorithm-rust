@@ -23,7 +23,7 @@ instrument = []
 lazy_static = "1.4.0"
 libc = "0.2"
 nom = "6.2.1"
-rand = "0.8.0"
+rand = "0.8.6"
 
 [dev-dependencies]
 approx = "0.5.0"
